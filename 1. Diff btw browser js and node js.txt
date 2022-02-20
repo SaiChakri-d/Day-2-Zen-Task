@@ -1,4 +1,4 @@
-1. List 5 difference between Browser JS(console) v Nodejs
+1. List the differences between Browser JS(console) v Nodejs
 
 JavaScript/JSConsole(browser):
 
