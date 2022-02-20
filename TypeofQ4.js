@@ -23,7 +23,7 @@
 //Output = string
 
 //4. 
-console.log(typeof(true)); // since value is declared as true whic is a keyword for boolean data type it will display it as a boolean.
+//console.log(typeof(true)); // since value is declared as true whic is a keyword for boolean data type it will display it as a boolean.
 //Output = boolean
 
 //5. 
